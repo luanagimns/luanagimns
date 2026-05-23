@@ -1,106 +1,72 @@
-# Hello There, I'm Hanela! 👋
+# Hello There, I'm Luana! 👋
 
 🎓 Systems Analysis and Development Graduate  
-💻 Java | MySQL | PHP | HTML | CSS  
-📚 Co-author of a scientific paper published at I CISI 2025  
-📍 Paraná – Brazil  
+💻 HTML • CSS • JS • PHP • NODE • PYTHON • NUXT 
+📍 São Paulo – Brazil  
 
 ---
 
 ## 🚀 About Me
 
-I am an early-career software developer with academic experience in systems development using PHP and MySQL.
+Healthcare professional transitioning into technology, with a technical background in nursing and a focus on web development.
 
-I co-authored a research project published at the International Congress of Knowledge and Innovation (I CISI 2025), focused on automating a Braille display through the integration of software and an ESP32 microcontroller, aiming to promote technological accessibility.
+Currently studying and developing projects using HTML, CSS, JavaScript, PHP, Node.js, Python, and Nuxt, continuously improving my front-end and back-end development skills.
 
-Currently, I work in the administrative area of the IT department while actively transitioning into a software development role.
-
-I am continuously improving my skills in JavaScript and modern web development.
+Passionate about continuous learning, modern interfaces, and creative digital solutions. I have strong adaptability, organization, and teamwork skills, combining my healthcare experience with my new journey in technology.
 
 ---
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
 </p>
-
----
-
-## 📂 Featured Projects
-
-- 🍽 Restaurant Management System   
-- ♿ Braille Display Automation (Published Undergraduate Thesis Project)
-
 ---
 
 ## 📫 Contact
 
-📧 **Email:** hanelaribeiro@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/hanela-ribeiro/
+📧 **Email:** luanagimns@gmail.com
+🔗 **LinkedIn:** https://www.linkedin.com/in/luanagimns/
 
 ---
 
 <br>
 
-# Olá, eu sou a Hanela! 👋
+# Olá, eu sou a Luana! 👋
 
 🎓 Desenvolvedora formada em Análise e Desenvolvimento de Sistemas  
-💻 Java | MySQL | PHP | HTML | CSS  
-📚 Coautora de artigo científico publicado no I CISI 2025  
-📍 Paraná – Brasil  
+💻 HTML • CSS • JS • PHP • NODE • PYTHON • NUXT 
+📍 São Paulo – Brasil  
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedora em início de carreira, com experiência acadêmica em desenvolvimento de sistemas utilizando PHP e MySQL.
+Profissional da área da saúde em transição para tecnologia, com formação técnica em enfermagem e foco em desenvolvimento web.
 
-Fui coautora de um projeto publicado no Congresso Internacional de Saberes e Inovação (I CISI 2025), voltado à automação de um display Braille com integração entre software e microcontrolador ESP32, com foco em acessibilidade tecnológica.
+Atualmente estudo e desenvolvo projetos utilizando HTML, CSS, JavaScript, PHP, Node.js, Python e Nuxt, buscando aprimorar minhas habilidades em front-end e back-end.
 
-Atualmente atuo na área administrativa do setor de TI, buscando transição para a área de desenvolvimento.
-
-Estou aprofundando meus conhecimentos em JavaScript e desenvolvimento web.
+Sou apaixonada por aprendizado contínuo, interfaces modernas e soluções digitais criativas. Tenho facilidade para adaptação, organização e trabalho em equipe, combinando minha experiência na saúde com minha nova jornada na tecnologia.
 
 ---
 
 ## 🛠 Tecnologias
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/> 
 </p>
-
----
-
-## 📂 Projetos em Destaque
-
-🔹 Sistema de Gerenciamento de Restaurante  
-Desenvolvimento de sistema para controle de pedidos, estoque e dados financeiros utilizando Java e MySQL.
-
-
-🔹 Automação de Display Braille  
-Projeto de TCC com integração entre software e ESP-32 para tradução de caracteres em Braille.  
-📄 Artigo publicado: https://www.even3.com.br/anais/i-cisi-congresso-internacional-de-saberes-e-inovacao-634002/1386807-automation-of-the-braille-system--development-of-a-display-for-character-translation/
-
----
 
 ## 📫 Contato
 
-📧 hanelaribeiro@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/hanela-ribeiro/
+📧 luanagimns@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/luanagimns/
