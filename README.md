@@ -68,5 +68,5 @@ Sou apaixonada por aprendizado contínuo, interfaces modernas e soluções digit
 
 ## 📫 Contato
 
-📧 luanagimns@gmail.com
+📧 Email: luanagimns@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/luanagimns/
