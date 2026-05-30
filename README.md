@@ -8,11 +8,9 @@
 
 ## 🚀 About Me
 
-Healthcare professional transitioning into technology, with a technical background in nursing and a focus on web development.
+Student of Systems Analysis and Development at UNICEP, focused on web development and the creation of modern and functional digital solutions. I have experience with HTML, CSS, JavaScript, PHP, Node.js, Python, and Nuxt, developing projects that strengthen my front-end and back-end skills.
 
-Currently studying and developing projects using HTML, CSS, JavaScript, PHP, Node.js, Python, and Nuxt, continuously improving my front-end and back-end development skills.
-
-Passionate about continuous learning, modern interfaces, and creative digital solutions. I have strong adaptability, organization, and teamwork skills, combining my healthcare experience with my new journey in technology.
+Passionate about technology and continuous learning, I am always exploring new tools, best practices, and challenges that drive my professional growth.
 
 ---
 
@@ -47,12 +45,9 @@ Passionate about continuous learning, modern interfaces, and creative digital so
 
 ## 🚀 Sobre mim
 
-Profissional da área da saúde em transição para tecnologia, com formação técnica em enfermagem e foco em desenvolvimento web.
+Estudante de Análise e Desenvolvimento de Sistemas na UNICEP, focada em desenvolvimento web e na criação de soluções digitais modernas e funcionais. Tenho experiência com HTML, CSS, JavaScript, PHP, Node.js, Python e Nuxt, desenvolvendo projetos que fortalecem minhas habilidades em front-end e back-end.
 
-Atualmente estudo e desenvolvo projetos utilizando HTML, CSS, JavaScript, PHP, Node.js, Python e Nuxt, buscando aprimorar minhas habilidades em front-end e back-end.
-
-Sou apaixonada por aprendizado contínuo, interfaces modernas e soluções digitais criativas. Tenho facilidade para adaptação, organização e trabalho em equipe, combinando minha experiência na saúde com minha nova jornada na tecnologia.
-
+Apaixonada por tecnologia e aprendizado contínuo, estou sempre explorando novas ferramentas, boas práticas e desafios que impulsionam meu crescimento profissional.
 ---
 
 ## 🛠 Tecnologias
