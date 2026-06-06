@@ -47,7 +47,10 @@ Passionate about technology and continuous learning, I am always exploring new t
 
 Estudante de Análise e Desenvolvimento de Sistemas na UNICEP, focada em desenvolvimento web e na criação de soluções digitais modernas e funcionais. Tenho experiência com HTML, CSS, JavaScript, PHP, Node.js, Python e Nuxt, desenvolvendo projetos que fortalecem minhas habilidades em front-end e back-end.
 
-Apaixonada por tecnologia e aprendizado contínuo, estou sempre explorando novas ferramentas, boas práticas e desafios que impulsionam meu crescimento profissional.
+Apaixona por tecnologia e aprendizado contínuo, estou sempre explorando novas ferramentas, boas práticas e desafios que impulsionam meu crescimento profissional.
+
+
+
 ---
 
 ## 🛠 Tecnologias
